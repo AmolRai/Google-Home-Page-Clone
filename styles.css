@@ -221,6 +221,10 @@ span {
   .search-icon {
     left: -210px;
   }
+
+  .google-img {
+    width: 200px;
+  }
 }
 
 @media (max-width: 490px) {
@@ -234,5 +238,9 @@ span {
 
   .search-icon {
     left: -150px;
+  }
+
+  .google-img {
+    width: 200px;
   }
 }
